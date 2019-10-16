@@ -1,0 +1,39 @@
+html, body{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-weight: 200;
+}
+
+.app {
+  height: 100%;
+}
+
+.rooms{
+  height: 90vh;
+  background: #212121;
+  color: white;
+}
+
+.message-list {
+  height: 90vh;
+  background:white;
+}
+
+.messageForm {
+  background: #e7e7e7;
+  color: black;
+}
+
+.sender-name {
+  color: #c4c4c4;
+  font-size: 12px;
+  font-weight: 200;
+  line-height: 5px;
+}
+
+.sender-text {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 28px;
+}
